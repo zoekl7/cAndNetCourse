@@ -1,2 +1,2 @@
 # cAndNetCourse
- C# and .NET course projects
+This repository with contain my C# and .NET course projects and practice code.
