@@ -1,0 +1,7 @@
+C:\cAndNetCourse\math_challenge\obj\Debug\math_challenge.csprojAssemblyReference.cache
+C:\cAndNetCourse\math_challenge\obj\Debug\math_challenge.csproj.CoreCompileInputs.cache
+C:\cAndNetCourse\math_challenge\bin\Debug\math_challenge.exe.config
+C:\cAndNetCourse\math_challenge\bin\Debug\math_challenge.exe
+C:\cAndNetCourse\math_challenge\bin\Debug\math_challenge.pdb
+C:\cAndNetCourse\math_challenge\obj\Debug\math_challenge.exe
+C:\cAndNetCourse\math_challenge\obj\Debug\math_challenge.pdb
